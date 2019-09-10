@@ -27,5 +27,4 @@ let Word = function(word){
 }
 
 
-
 module.exports =  Word;
